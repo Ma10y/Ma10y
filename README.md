@@ -2,7 +2,7 @@
 
 <!--
 **Ma10y/Ma10y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<figure><embed src="https://wakatime.com/share/@50be0687-d3ce-467d-ba2d-d855f69466cd/4e1293bc-9113-4668-b521-9654d2e7a762.svg"></embed></figure>
+<img src="https://wakatime.com/share/@ea96ee46-909d-45fd-adee-dfa864e74ace/a5c5f8e4-16c8-486f-a8b4-2d23d9987472.svg" height="400"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
